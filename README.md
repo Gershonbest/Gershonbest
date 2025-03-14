@@ -1,7 +1,6 @@
-
 # 👋 Hi, I'm Gershon!
 
-🚀 **AI Engineer | MLOps | Software Developer | Tech Content Creator**
+🚀 **AI Engineer | MLOps | Software Engineer | Tech Content Creator**
 
 I'm passionate about building intelligent systems, deploying scalable AI solutions, and sharing knowledge on software development. I specialize in AI/ML, MLOps, and backend development, leveraging technologies like **Python, FastAPI, AWS SageMaker, LangChain, and RAG**.
 
@@ -24,25 +23,31 @@ I'm passionate about building intelligent systems, deploying scalable AI solutio
 ![LangChain](https://img.shields.io/badge/LangChain-FFC107?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-6200EA?style=for-the-badge)
 ![MLOps](https://img.shields.io/badge/MLOps-00C853?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![AWS SageMaker](https://img.shields.io/badge/AWS_SageMaker-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
+
 
 ---
 
 ## 🚀 **Projects**
 
-🔹 [**Skincare AI Chatbot**](https://github.com/Gershon/skincare-ai) - AI-driven skincare recommendations with Computer Vision & LLMs.  
+🔹 [**Skincare AI Chatbot**](https://github.com/Gershonbest/support-agent.git) - AI-driven skincare recommendations with Computer Vision & LLMs.  
 🔹 [**Bible Study AI**](https://github.com/Gershon/bible-study-ai) - Dynamic Bible study platform with real-time discussions & AI insights.  
-🔹 [**Payment Gateway System**](https://github.com/Gershon/payment-gateway) - A secure and scalable payment processing system.  
-🔹 [**Customer Support Chatbot (RAG-based)**](https://github.com/Gershon/support-chatbot) - AI-powered support assistant using RAG & LangChain.  
+🔹 [**Stockprice-predictor-using-LSTM**](https://github.com/Gershonbest/Stockprice-predictor-using-LSTM.git) - A secure and scalable payment processing system.  
+🔹 [**Agentic Real Estate Chatbot (RAG-based)**](https://github.com/Gershonbest/agentic-real-estate.git) - AI-powered real estate agentic support assistant using RAG & LangChain.  
 
 
 ---
 
 ## 🌍 **Let's Connect!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/yourchannel)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gershon-oghenetega-omoraka-478058177/)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gershblocks@gmail.com)
 
 ---
 
