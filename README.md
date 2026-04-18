@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gershon!
 
-🚀 **AI Engineer | MLOps | Software Engineer | Tech Content Creator**
+🚀 **AI Engineer | MLOps | Software Engineer | AI Content Creator**
 
 I'm passionate about building intelligent systems, deploying scalable AI solutions, and sharing knowledge on software development. I specialize in AI/ML, MLOps, and backend development, leveraging technologies like **Python, FastAPI, AWS SageMaker, LangChain, and RAG**.
 
@@ -10,7 +10,7 @@ I'm passionate about building intelligent systems, deploying scalable AI solutio
 
 - **AI & MLOps**: Developing and deploying AI models, optimizing pipelines, and monitoring performance.
 - **Backend Development**: Creating scalable APIs and backend systems using FastAPI and Python.
-- **Tech Content Creation**: Sharing software development tips and AI insights on [YouTube/TikTok].
+- **AI Content Creation**: Sharing software development tips and AI insights on [YouTube/TikTok/Linkedin].
 - **Tech Leadership**: Leading AI initiatives and community engagements in an African setting.
 
 ---
@@ -36,8 +36,7 @@ I'm passionate about building intelligent systems, deploying scalable AI solutio
 
 ## 🚀 **Projects**
 
-🔹 [**Skincare AI Chatbot**](https://github.com/Gershonbest/support-agent.git) - AI-driven skincare recommendations with Computer Vision & LLMs.  
-🔹 [**Bible Study AI**](https://github.com/Gershon/bible-study-ai) - Dynamic Bible study platform with real-time discussions & AI insights.  
+🔹 [**Skincare AI Chatbot**](https://github.com/Gershonbest/support-agent.git) - AI-driven skincare recommendations with Computer Vision & LLMs.
 🔹 [**Stockprice-predictor-using-LSTM**](https://github.com/Gershonbest/Stockprice-predictor-using-LSTM.git) - A secure and scalable payment processing system.  
 🔹 [**Agentic Real Estate Chatbot (RAG-based)**](https://github.com/Gershonbest/agentic-real-estate.git) - AI-powered real estate agentic support assistant using RAG & LangChain.  
 
