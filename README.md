@@ -1,68 +1,120 @@
-# 👋 Hi, I'm Gershon!
+<div align="center">
 
-🚀 **AI Engineer | MLOps | Software Engineer | AI Content Creator**
+# Gershon Omoraka
+### AI/ML Engineer · Agentic AI Systems · LLM Engineering · MLOps
 
-I'm passionate about building intelligent systems, deploying scalable AI solutions, and sharing knowledge on software development. I specialize in AI/ML, MLOps, and backend development, leveraging technologies like **Python, FastAPI, AWS SageMaker, LangChain, and RAG**.
+*Building production AI that solves real problems at scale*
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gershon-omoraka-478058177)
+[![PyPI](https://img.shields.io/badge/PyPI-deep--ocr-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/deep-ocr/)
+[![Springer](https://img.shields.io/badge/Springer-Published-B31B1B?style=for-the-badge&logo=google-scholar&logoColor=white)](https://link.springer.com/chapter/10.1007/978-3-030-99581-2_3)
 
-## 🔥 **What I Do**
-
-- **AI & MLOps**: Developing and deploying AI models, optimizing pipelines, and monitoring performance.
-- **Backend Development**: Creating scalable APIs and backend systems using FastAPI and Python.
-- **AI Content Creation**: Sharing software development tips and AI insights on [YouTube/TikTok/Linkedin].
-- **Tech Leadership**: Leading AI initiatives and community engagements in an African setting.
+</div>
 
 ---
 
-## 🛠 **Tech Stack**
+## About Me
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-FFC107?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-6200EA?style=for-the-badge)
-![MLOps](https://img.shields.io/badge/MLOps-00C853?style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
-![AWS SageMaker](https://img.shields.io/badge/AWS_SageMaker-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
+I'm an AI/ML Engineer with 6+ years of experience, including 3+ years building and shipping **production-grade agentic AI systems** for enterprise and financial services environments. My focus is always the same: fast, reliable, high-impact AI in production — not prototypes.
 
+- 🤖 **Specialist in:** Multi-agent orchestration, LLM engineering, Voice AI, RAG pipelines, LLM fine-tuning
+- 🏦 **Currently:** AI/ML Engineer at MBL Hightech — building 24/7 AI systems for regulated financial brokers
+- 🚀 **Co-Founder & CTO** at [Kairos Booking](https://github.com/Gershonbest) — AI-powered booking platform for Africa
+- 🌍 **Co-Founder** of Intelligent Systems Assurance Consultancy (ISAC), Banjul, The Gambia
+- 📦 **Open Source Author:** [DeepOCR](https://pypi.org/project/deep-ocr/) — Python library for production document OCR
+- 📄 **Springer Published Researcher** — IoT & AI systems (DOI: [10.1007/978-3-030-99581-2_3](https://link.springer.com/chapter/10.1007/978-3-030-99581-2_3))
+- 🎓 **MSc Artificial Intelligence Engineering** — Near East University
 
 ---
 
-## 🚀 **Projects**
+## What I Build
 
-🔹 [**Skincare AI Chatbot**](https://github.com/Gershonbest/support-agent.git) - AI-driven skincare recommendations with Computer Vision & LLMs.
-🔹 [**Stockprice-predictor-using-LSTM**](https://github.com/Gershonbest/Stockprice-predictor-using-LSTM.git) - A secure and scalable payment processing system.  
-🔹 [**Agentic Real Estate Chatbot (RAG-based)**](https://github.com/Gershonbest/agentic-real-estate.git) - AI-powered real estate agentic support assistant using RAG & LangChain.  
-
-
----
-
-## 🌍 **Let's Connect!**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gershon-oghenetega-omoraka-478058177/)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gershblocks@gmail.com)
+| Domain | What |
+|---|---|
+| 🧠 **Agentic AI** | Multi-agent systems with LangGraph, tool-calling, memory, conditional routing |
+| 🎙️ **Voice AI** | STT + LLM + TTS pipelines, telephony integration, real-time call analytics |
+| 📚 **RAG Systems** | Multi-stage semantic retrieval, vector stores, document intelligence |
+| ⚙️ **MLOps** | CI/CD for ML, canary deployments, drift detection, automated retraining |
+| 🔬 **LLM Fine-tuning** | LoRA/PEFT, training pipelines, SageMaker deployment, quantisation |
+| 📊 **LLM Evaluation** | Benchmarking frameworks, hallucination detection, retrieval quality scoring |
+| 📄 **Document AI** | OCR pipelines, KYC/ID verification, entity extraction, NLP |
 
 ---
 
-🔥 Always open to collaboration on AI/ML, MLOps, and innovative tech projects!
+## Career Highlights
 
-<!--
-**Gershonbest/Gershonbest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ✅ Deployed **24/7 AI customer support** for a regulated financial broker — thousands of interactions daily, zero human agents, zero downtime
+- ✅ Built **Speech-to-Text analytics platform** processing 1,000+ hours of audio/day at 95% transcription accuracy
+- ✅ Achieved **60% reduction in RAG query latency** and **60% reduction in client operational workload** through AI automation
+- ✅ Published open-source **DeepOCR** on PyPI — production-grade document OCR for developers
+- ✅ **Springer peer-reviewed publication** — presented at international academic conference
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**AI & LLMs**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+**Cloud & MLOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+
+**Data & Vector**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**APIs & Integrations**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [🔬 DeepOCR](https://github.com/Gershonbest/deep-ocr) | Published Python OCR library on PyPI | Python, DeepSeek OCR |
+| [🤖 LLM Inference Platform](https://github.com/Gershonbest/llm-inference-platform) | GPU-optimised LLM serving with Triton + vLLM | Triton, vLLM, Kubernetes, Grafana |
+| [🏗️ MLOps Canary Pipeline](https://github.com/Gershonbest/mlops-canary-pipeline) | Canary deployment with automated rollback | SageMaker, GitHub Actions, Docker |
+| [📡 Drift Detection & Retraining](https://github.com/Gershonbest/drift-detection-retraining) | Auto-retraining loop triggered by data drift | Python, MLflow, SageMaker |
+| [✅ LLM Evaluation Framework](https://github.com/Gershonbest/llm-evaluation-framework) | Benchmarking, hallucination detection, guardrails | Python, Ragas, LangSmith |
+| [📶 Wi-Fi IoT Attendance System](https://github.com/Gershonbest/Wifi-Attendance-System) | Springer-published IoT research project | IoT, Cloud, Python |
+
+---
+
+## Publication
+
+> **Wi-Fi Attendance System in the IoT Era**
+> Springer · *Forthcoming Networks and Sustainability in the IoT Era*, pp. 19–29 · January 2022
+> [DOI: 10.1007/978-3-030-99581-2_3](https://link.springer.com/chapter/10.1007/978-3-030-99581-2_3)
+
+---
+
+## Open Source
+
+> **DeepOCR** — A Python library for high-accuracy document OCR powered by the DeepSeek OCR model.
+> Built for production document processing pipelines: scanned documents, IDs, forms, and financial records.
+> Roadmap: hosted OCR API service for developer integrations.
+> [`pip install deep-ocr`](https://pypi.org/project/deep-ocr/)
+
+---
+
+<div align="center">
+
+*Open to collaboration, consulting, and interesting problems in production AI.*
+
+</div>
