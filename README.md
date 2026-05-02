@@ -86,10 +86,11 @@ I'm an AI/ML Engineer with 6+ years of experience, including 3+ years building a
 | Project | Description | Stack |
 |---|---|---|
 | [🔬 DeepOCR](https://github.com/Gershonbest/deep-ocr) | Published Python OCR library on PyPI | Python, DeepSeek OCR |
+| [Phonenix AI](https://github.com/Gershonbest/Phonenix-AI) | Enterprise-grade AI voice automation platform for businesses + Livekit and Twilio Intergration |
 | [🤖 LLM Inference Platform](https://github.com/Gershonbest/llm-inference-platform) | GPU-optimised LLM serving with Triton + vLLM | Triton, vLLM, Kubernetes, Grafana |
-| [🏗️ MLOps Canary Pipeline](https://github.com/Gershonbest/mlops-canary-pipeline) | Canary deployment with automated rollback | SageMaker, GitHub Actions, Docker |
+| [Whisper STT inference](https://github.com/Gershonbest/whisper_runpod_exp) | Built with Whisper and Pyannote.audio for multi-language transcription and speaker diarization. + Runpod |
 | [📡 Drift Detection & Retraining](https://github.com/Gershonbest/drift-detection-retraining) | Auto-retraining loop triggered by data drift | Python, MLflow, SageMaker |
-| [✅ LLM Evaluation Framework](https://github.com/Gershonbest/llm-evaluation-framework) | Benchmarking, hallucination detection, guardrails | Python, Ragas, LangSmith |
+| [Ollama Inference Engine](https://github.com/Gershonbest/ollama-inference) | Ollama API server + LLM + Embedding model |
 | [📶 Wi-Fi IoT Attendance System](https://github.com/Gershonbest/Wifi-Attendance-System) | Springer-published IoT research project | IoT, Cloud, Python |
 
 ---
