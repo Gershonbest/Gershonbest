@@ -19,8 +19,6 @@ I'm an AI/ML Engineer with 6+ years of experience, including 3+ years building a
 
 - 🤖 **Specialist in:** Multi-agent orchestration, LLM engineering, Voice AI, RAG pipelines, LLM fine-tuning
 - 🏦 **Currently:** AI/ML Engineer at MBL Hightech — building 24/7 AI systems for regulated financial brokers
-- 🚀 **Co-Founder & CTO** at [Kairos Booking](https://github.com/Gershonbest) — AI-powered booking platform for Africa
-- 🌍 **Co-Founder** of Intelligent Systems Assurance Consultancy (ISAC), Banjul, The Gambia
 - 📦 **Open Source Author:** [DeepOCR](https://pypi.org/project/deep-ocr/) — Python library for production document OCR
 - 📄 **Springer Published Researcher** — IoT & AI systems (DOI: [10.1007/978-3-030-99581-2_3](https://link.springer.com/chapter/10.1007/978-3-030-99581-2_3))
 - 🎓 **MSc Artificial Intelligence Engineering** — Near East University
